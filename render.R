@@ -1,5 +1,5 @@
 # Render to hmtl
-rmarkdown::render(input = "Foraita_2024_BK70_new.Rmd", output_file = "index.html")
+rmarkdown::render(input = "Foraita_2024_BK70.Rmd", output_file = "index.html")
 
 
 # Render to PDF

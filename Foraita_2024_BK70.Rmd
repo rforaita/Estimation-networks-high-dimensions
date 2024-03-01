@@ -101,9 +101,9 @@ The gene TP53 encodes the p53 tumour suppressor protein which initiates cell cyc
 
 + The .bipsblue[**sparsity**] (density) is defined as 
 
-\begin{equation*}
-  s(G) = \frac{|E|}{{p \choose 2}/2}
-\end{equation*}
+$$
+  s(G) = \frac{|E|}{{p \choose 2} / 2}
+$$
 
 ]
 
